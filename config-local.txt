@@ -3,10 +3,16 @@
 
 
 --- Crear entorno virtual
-python -m venv venv
+Windows
+python -m venv env
+env\Scripts\activate
+
+macOS / Linux
+python3 -m venv venv
+source venv/bin/activate
 
 --- Instalar dependencias
-pip install google-generativeai pillow python-dotenv schedule requests
+pip install -r requirements.txt
 
 
 -------------------------------------------------------------------------------
@@ -15,9 +21,9 @@ pip install google-generativeai pillow python-dotenv schedule requests
 
 --- Configura el archivo .env
 
-GEMINI_API_KEY=tu_clave
-FB_PAGE_ID=tu_page_id
-FB_ACCESS_TOKEN=tu_token
+GEMINI_API_KEY=AIzaSyAfCOMMAp4COI6b6KeYQde9N0O5Dmlj99M
+FB_SYSTEM_USER_TOKEN=
+FB_PAGE_ID=
 
 
 
