@@ -1,6 +1,27 @@
 [
   {
+    "foto": "004.jpg",
+    "fecha_creacion_programacion": "2026-02-02 22:33:21",
+    "fecha_publicacion_programada": "2026-02-03 15:15:00"
+  },
+  {
+    "foto": "003.jpg",
+    "fecha_creacion_programacion": "2026-02-02 22:33:21",
+    "fecha_publicacion_programada": "2026-02-04 10:50:00"
+  },
+  {
+    "foto": "002.jpg",
+    "fecha_creacion_programacion": "2026-02-02 22:33:21",
+    "fecha_publicacion_programada": "2026-02-05 16:55:00"
+  },
+  {
     "foto": "001.jpg",
-    "fecha": "2026-01-31T11:58:34.959008"
+    "fecha_creacion_programacion": "2026-02-02 22:33:21",
+    "fecha_publicacion_programada": "2026-02-06 11:38:00"
+  },
+  {
+    "foto": "007.jpg",
+    "fecha_creacion_programacion": "2026-02-02 22:33:21",
+    "fecha_publicacion_programada": "2026-02-07 15:52:00"
   }
 ]
